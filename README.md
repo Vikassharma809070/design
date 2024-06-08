@@ -46,7 +46,8 @@ DesignCo is an interior design startup dedicated to creating beautiful and funct
 
 ## Screenshots
 
-[design.pdf](https://github.com/user-attachments/files/15749194/design.pdf)
+
+![desgin](https://github.com/Vikassharma809070/design/assets/85099691/44bfbd1e-4d65-4bb3-9b32-17cec9ccf18b)
 
 
 ## Contributing
